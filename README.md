@@ -1,6 +1,7 @@
 
 # Mi-portafolio-Asesorías Par
 ## Descripción
+Este proyecto fue hecho en HTML, CSS, JAVASCRIPT, PHP, SQL, XAMPP y PHPMyAdmin.
 
 ¡Saludos!
 
